@@ -1,0 +1,15 @@
+.MemoryCard {
+  width: 300px;
+  height: 150px;
+  border-radius: 10px;
+  border: 1px solid #141414;
+  font-size: 22px;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.MemoryCard:hover {
+  opacity: .8;
+}
